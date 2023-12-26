@@ -2,9 +2,12 @@
 
 that implements the ability to create folders and files using objects in Koltin.
 
-To build do
+You may find the current build in the root directory.
+
+
+To build run
 ```
 ./gradlew build
 ```
 
-This will automaticly run the build tests.
+This will automatically run the build tests.
